@@ -1,0 +1,1 @@
+[2017-12-21 21:01:58,554] TRACE [Controller id=0 epoch=1] Received response {error_code=0} for a request sent to broker ubuntu.xa.hoperun.com:9092 (id: 0 rack: null) (state.change.logger)
