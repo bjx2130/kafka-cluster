@@ -1,7 +1,10 @@
 kafka集群部署
+   [ 启动，停止 ]集群使用脚本 kafka_2.12-1.0.0-cluster/kafka-cluster-server.sh
 
 
-常用命令：
+
+###################################################################################
+console客户端常用命令：
       创建主题：
         ./kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1   
       --partitions 1 --topic Hello-Kafka
