@@ -1,5 +1,6 @@
 kafka集群部署
    [ 启动，停止 ]集群使用脚本 kafka_2.12-1.0.0-cluster/kafka-cluster-server.sh
+   注意：启动kafka集群，需要先启动zookeeper
 
 
 
