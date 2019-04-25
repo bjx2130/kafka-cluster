@@ -1,3 +1,6 @@
+转载 Apache Kafka 核心组件详解： https://blog.csdn.net/liyiming2017/article/details/82843036
+
+
 kafka集群部署
    [ 启动，停止 ]集群使用脚本 kafka_2.12-1.0.0-cluster/kafka-cluster-server.sh
    注意：启动kafka集群，需要先启动zookeeper
