@@ -15,6 +15,7 @@ console客户端常用命令：
 
       查看主题：
         ./kafka-topics.sh --list --zookeeper localhost:2181
+        ./kafka-topics.sh --list --bootstrap-server localhost:9092
 
 
 
